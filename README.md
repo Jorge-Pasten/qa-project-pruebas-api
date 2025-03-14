@@ -43,7 +43,7 @@ Se realizaron pruebas manuales enviando solicitudes a la API a través de **Post
 - Se reportaron errores y posibles mejoras en **Jira**.
 - Se redactó un informe de pruebas detallando el estado de la funcionalidad evaluada.
 
-Consulta los resultados dando clic [aquí](https://docs.google.com/spreadsheets/d/1_Qyzx2WAQzQs0djtE5j3p-kthi0Fw2ZR/edit?usp=sharing&ouid=100155335199930450797&rtpof=true&sd=true).
+➡️ Consulta los resultados dando clic [aquí](https://docs.google.com/spreadsheets/d/1_Qyzx2WAQzQs0djtE5j3p-kthi0Fw2ZR/edit?usp=sharing&ouid=100155335199930450797&rtpof=true&sd=true).
 
 ## Conclusión
 
